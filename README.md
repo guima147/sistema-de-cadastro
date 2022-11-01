@@ -3,4 +3,4 @@
 
 Para rodar esse projeto digite:
 
-``` npm in ```
+``` npm install react ```
